@@ -1,8 +1,5 @@
-pandas @ file:///C:/miniconda3/conda-bld/pandas_1692299636855/work
-matplotlib @ file:///C:/b/abs_085jhivdha/croot/matplotlib-suite_1693812524572/work
-matplotlib-inline @ file:///C:/ci/matplotlib-inline_1661934035815/work
-seaborn==0.11.2
+matplotlib==3.7.2
+numpy==1.24.4
+pandas==2.0.3
+seaborn==0.12.2
 streamlit==1.24.1
-streamlit-option-menu==0.3.2
-numpy @ file:///C:/Users/dev-admin/mkl/numpy_and_numpy_base_1682982345978/work
-numpydoc @ file:///C:/b/abs_cfdd4zxbga/croot/numpydoc_1668085912100/work
